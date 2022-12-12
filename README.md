@@ -1,2 +1,2 @@
 # React-Day-3-MUI-Dashboard
-Created with CodeSandbox
+I've created a simple DashBoard with Material UI's AppBar.
